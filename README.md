@@ -1,8 +1,8 @@
 # **SUICIDES DATA EXPLORATION**
 
-**Firstly I have cleaned the data, in that process I removed the rows I thought of were no use.**
-**Then I summairzed the columns I was gonna analyzed though that process I haven't showed on the notebook\n**
--> **And then finally I did analyze the summaried columns one by one**
+1. Firstly I have cleaned the data, in that process I removed the rows I thought of were no use
+2. Then I summairzed the columns I was gonna analyzed though that process I haven't showed on the notebook
+3. And then finally I did analyze the summaried columns one by one
 
 
 
