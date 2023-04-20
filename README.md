@@ -1,8 +1,10 @@
 # **SUICIDES DATA EXPLORATION**
 
-### Firstly I have cleaned the data, in that process I removed the rows I thought of were no use.
-### Then I summairzed the columns I was gonna analyzed though that process I haven't showed on the notebook
-### And then finally I did analyze the summaried columns one by one
+#### Firstly I have cleaned the data, in that process I removed the rows I thought of were no use.
+#### Then I summairzed the columns I was gonna analyzed though that process I haven't showed on the notebook
+#### And then finally I did analyze the summaried columns one by one
+
+
 
 
 # **NOW LET'S PUT ALL THE POINTS TOGETHER WE HAVE COLLECTED FROM THIS DATASET:-**
