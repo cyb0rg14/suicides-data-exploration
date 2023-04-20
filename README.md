@@ -17,3 +17,5 @@
   * And as they become senior graphs are again falling down means they are less likely to be the victim
   
 ## **You can find more useful insights out of this dataset, so use it as you like**
+
+### **Or you can play with this dataset online at [suicides_rate_exploration](https://www.kaggle.com/code/crownedhead06/suicides-rate-exploration) by Data Maven**
