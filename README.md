@@ -13,7 +13,7 @@
 3. There was a time around 1990-2000 when suicide rate has increased at sudden rate but after that there is no relation between increase in suicidal_rate over time.
 4. Age group plays the major role in suicides, to be more precise
   * Kids are almost safe from these kind of accidents
-  * But as kids grows they are more likley to be the victim
+  * But as kids grow they are more likley to be the victim
   * And as they become senior graphs are again falling down means they are less likely to be the victim
   
 ## **You can find more useful insights out of this dataset, so use it as you like**
